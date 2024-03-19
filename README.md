@@ -1,3 +1,8 @@
+***Prototype***
+<br>
+<br>
+![image](https://github.com/Mukilan-Gunasekaran/Automatic-Lawn-Mower/assets/118257070/d4e5e398-490b-44b2-9ac2-612c1413fd1b)
+
 ***Components Required***
 <br>
 <br>
